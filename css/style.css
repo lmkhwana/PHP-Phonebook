@@ -1,0 +1,9 @@
+#loaderimage
+{
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 50%;
+    width: 100%;
+    margin: 50px auto 50px auto;
+}
